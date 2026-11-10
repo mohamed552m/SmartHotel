@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Smart Hotel</string>
+    <string name="hint_login_email">Email Address</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_full_name">Full Name</string>
+    <string name="hint_email_address">Email Address</string>
+    <string name="hint_phone_number">Phone Number</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="smart_hotel">Smart Hotel</string>
+    <string name="brand_tagline">Your comfort, our priority</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="login_subtitle">Sign in to continue your smart stay</string>
+    <string name="create_account">Create Account</string>
+    <string name="signup_subtitle">Join Smart Hotel and start your magical stay</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="continue_as_guest">Continue as Guest</string>
+    <string name="dont_have_account">Don’t have an account?</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="login_link">Login</string>
+    <string name="or_divider">or</string>
+    <string name="terms_privacy">I agree to the Terms &amp; Privacy Policy</string>
+    <string name="get_started_arrow">Get Started  →</string>
+    <string name="content_logo_seal">Smart Hotel logo</string>
+    <string name="toggle_password">Toggle password visibility</string>
+    <string name="back">Back</string>
+</resources>

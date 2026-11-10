@@ -1,0 +1,34 @@
+# Android Studio
+.idea/
+*.iml
+.gradle/
+.kotlin/
+build/
+local.properties
+
+# Generated files
+.cxx/
+.externalNativeBuild/
+captures/
+*.apk
+*.aab
+
+# Sensitive files
+*.jks
+*.keystore
+key.properties
+secrets.properties
+.env
+.env.*
+
+# System files
+.DS_Store
+Thumbs.db
+
+.gradle-home/
+.gradle-user-home/
+
+tools/gradle-8.13/
+design_refs/SMART_HOTEL_FINAL_CODEX_BRIEF.md
+
+/app/google-services.json
